@@ -1,0 +1,9 @@
+{
+  "name": "Survey Form",
+  "description": "Dojo Survey Form",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
